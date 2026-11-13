@@ -1,0 +1,42 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+# Acquired EEG, prepared arrays and checkpoints
+data/
+datasets/
+runs/
+outputs/
+logs/
+checkpoints/
+*.npy
+*.npz
+*.mat
+*.edf
+*.gdf
+*.bdf
+*.fif
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.pkl
+*.pickle
+*.joblib
+*.log
+events.out.tfevents.*
+# Local configuration and notebook output
+.env
+.env.*
+.ipynb_checkpoints/
+*.ipynb
+.DS_Store

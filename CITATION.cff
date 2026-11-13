@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use TSE-RL, please cite the paper listed in preferred-citation."
+type: software
+title: "TSE-RL: Temporal Structure Embedded Reinforcement Learning"
+authors:
+  - family-names: Luo
+    given-names: Huan
+  - family-names: Lu
+    given-names: Na
+  - family-names: Wang
+    given-names: Xiaopeng
+  - family-names: Shang
+    given-names: Ziyang
+repository-code: "https://github.com/LunaLab-XJTU/TSE-RL"
+url: "https://github.com/LunaLab-XJTU/TSE-RL"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Time Window Optimization for Motor Imagery Classification via Temporal Structure Embedded Reinforcement Learning"
+  authors:
+    - family-names: Luo
+      given-names: Huan
+    - family-names: Lu
+      given-names: Na
+    - family-names: Wang
+      given-names: Xiaopeng
+    - family-names: Shang
+      given-names: Ziyang
+  journal: "arXiv preprint arXiv:2610.16921"
+  year: 2026
+  doi: "10.48550/arXiv.2610.16921"
+  url: "https://arxiv.org/abs/2610.16921"
