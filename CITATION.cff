@@ -11,8 +11,8 @@ authors:
     given-names: Xiaopeng
   - family-names: Shang
     given-names: Ziyang
-repository-code: "https://github.com/LunaLab-XJTU/TSE-RL"
-url: "https://github.com/LunaLab-XJTU/TSE-RL"
+repository-code: "https://github.com/luo-huan-123/TSE-RL"
+url: "https://github.com/luo-huan-123/TSE-RL"
 license: MIT
 preferred-citation:
   type: article
@@ -26,7 +26,12 @@ preferred-citation:
       given-names: Xiaopeng
     - family-names: Shang
       given-names: Ziyang
-  journal: "arXiv preprint arXiv:2610.16921"
+  journal: "IEEE Journal of Biomedical and Health Informatics"
   year: 2026
-  doi: "10.48550/arXiv.2610.16921"
+  status: in-press
+  notes: "Accepted for publication. Preprint: arXiv:2610.16921."
   url: "https://arxiv.org/abs/2610.16921"
+  identifiers:
+    - type: doi
+      value: "10.48550/arXiv.2610.16921"
+      description: "arXiv preprint"

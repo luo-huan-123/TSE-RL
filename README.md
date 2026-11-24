@@ -4,6 +4,8 @@
 
 Huan Luo, Na Lu, Xiaopeng Wang, and Ziyang Shang
 
+**Accepted for publication in** *IEEE Journal of Biomedical and Health Informatics* (2026).
+
 **Preprint:** [arXiv:2610.16921](https://arxiv.org/abs/2610.16921) · [Paper PDF](https://arxiv.org/pdf/2610.16921)
 
 TSE-RL optimizes time windows for motor imagery EEG classification. An actor-critic policy trained with PPO assigns Discard, Onset, Sustain, and Offset actions to successive EEG windows. A finite-state machine constrains the available actions, a Transformer encodes window history, and action-dependent weights aggregate the predictions of retained windows. The implementation supports eight backbones with separate feature extractors (F) and discriminators (D).
@@ -150,7 +152,7 @@ TSE-RL/
 
 ## Citation
 
-If you use TSE-RL in your research, please cite our [paper](https://arxiv.org/abs/2610.16921).
+If you use TSE-RL in your research, please cite our paper. It has been accepted for publication in *IEEE Journal of Biomedical and Health Informatics*. Until the journal version is available, please cite the arXiv preprint below.
 
 ```bibtex
 @misc{luo2026tserl,
